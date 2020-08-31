@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProfiles>
+<!-- Written by QtCreator 4.13.0, 2020-08-31T11:15:49. -->
+<qtcreator>
+ <data>
+  <variable>Kit.IrrelevantAspects</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>Profile.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">false</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <valuelist type="QVariantList" key="CMake.ConfigurationKitInformation">
+     <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
+     <value type="QString">CMAKE_PREFIX_PATH:STRING=%{Qt:QT_INSTALL_PREFIX}</value>
+     <value type="QString">CMAKE_C_COMPILER:STRING=%{Compiler:Executable:C}</value>
+     <value type="QString">CMAKE_CXX_COMPILER:STRING=%{Compiler:Executable:Cxx}</value>
+    </valuelist>
+    <valuemap type="QVariantMap" key="CMake.GeneratorKitInformation">
+     <value type="QString" key="ExtraGenerator">CodeBlocks</value>
+     <value type="QString" key="Generator">Unix Makefiles</value>
+     <value type="QString" key="Platform"></value>
+     <value type="QString" key="Toolset"></value>
+    </valuemap>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation"></value>
+    <value type="QString" key="PE.Profile.Device">Desktop Device</value>
+    <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
+     <value type="QByteArray" key="C">{f7363092-48a4-4db6-bfa1-b221a5044e35}</value>
+     <value type="QByteArray" key="Cxx">{8da140cb-fe05-4d32-8d8b-81e33c0b2a82}</value>
+    </valuemap>
+    <value type="int" key="QtSupport.QtInformation">1</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.DeviceTypeForIcon"></value>
+   <value type="QString" key="PE.Profile.Icon"></value>
+   <value type="QString" key="PE.Profile.Id">{35d665ab-ab03-4661-a9b8-be6eeae96e96}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">Desktop</value>
+   <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo"/>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.Count</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>Profile.Default</variable>
+  <value type="QString">{35d665ab-ab03-4661-a9b8-be6eeae96e96}</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>

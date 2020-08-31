@@ -1,0 +1,55 @@
+URxvt*background: black
+URxvt*foreground: White
+URxvt*geometry: 80x30
+URxvt*scrollBar: false
+
+
+!-- Xft settings -- !
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintfull
+
+! -- Fonts -- !
+  URxvt.font:xft:Monospace-Bold:pixelsize=12.5
+  URxvt.boldfont:xft:Monospace-Bold:pixelsize=12.5
+
+! window padding
+st.borderpx:          15
+st.font:            FiraCode-Bold:pixelsize=14
+URxvt.letterSpace: -1
+
+URxvt.internalBorder:  10
+
+urxvt.foreground:       #aaaaaa
+
+*color12: #0D72CA
+*color4: #0D72CA
+
+URxvt*inheritPixmap: true
+URxvt*transparent: true
+! -- URxvt*shading: 0 to 99 darkens, 101 to 200 lightens -- !
+URxvt*shading:0
+
+! -- URxvt.perl-ext-common: ...,tabbed,...  -- !
+
+URxvt.tabbed.tabbar-fg: 4
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg: 3
+URxvt.tabbed.tab-bg: 2
+
+! -- xterm config -- !
+
+
+xterm*faceName: Monospace
+
+
+xterm*faceSize: 10
+xterm*renderFont: true
+xterm*BorderWidth: 15
+XTerm*selectToClipboard: true
+xterm*background : #000000
+xterm*foreground : #ffffff
+
+ 

@@ -1,0 +1,13 @@
+cp -r ~/Public/theme\ and\ icons/ob/.gtkrc-2.0 ~/
+cp -r ~/Public/theme\ and\ icons/ob/settings.ini  ~/.config/gtk-3.0/
+
+feh --bg-fill ~/Pictures/wall/hef.png &
+xrdb merge ~/Public/xresources/hefftor/.Xresources &
+
+cp -r ~/Public/poly/ob/polybar/ ~/.config/
+~/.config/polybar/launch.sh
+
+plank &
+
+
+ 
